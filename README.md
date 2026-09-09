@@ -12,8 +12,7 @@ Tracking X algorithm changes, cybersecurity, and things that make me curious.
 - Cybersecurity
 - OSINT
 - Systems & human behavior
-
 ## Find me
 
-X: @ts_nyan_watch  
-note: https://note.com/akita_watch
+𝕏: [@ts_nyan_watch](https://x.com/ts_nyan_watch)  
+note: [AK.Ita](https://note.com/akita_watch)
