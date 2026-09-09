@@ -1,16 +1,19 @@
-## Hi there 👋
+# AK.Ita
 
-<!--
-**clip1515/clip1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber / Customs / OSINT
 
-Here are some ideas to get you started:
+I verify before I trust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tracking X algorithm changes, cybersecurity, and things that make me curious.
+
+## What I'm watching
+
+- X Algorithm
+- Cybersecurity
+- OSINT
+- Systems & human behavior
+
+## Find me
+
+X: @ts_nyan_watch  
+note: https://note.com/akita_watch
