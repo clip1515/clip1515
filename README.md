@@ -15,7 +15,7 @@ Tracking X algorithm changes, cybersecurity, and things that make me curious.
 
 ## Projects
 
-- 🛡️ **[cyber-threat-japan](https://github.com/clip1515/cyber-threat-japan)** — Tracking cyber threats, vulnerabilities, and security incidents relevant to Japan. Daily-updated.
+- 🛡️ **[cyber-threat-japan](https://github.com/clip1515/cyber-threat-japan)** — Tracking cyber threats, vulnerabilities, and security incidents relevant to Japan. In development. Testing daily monitoring.
 - 🐦 **[x-algorithm](https://github.com/clip1515/x-algorithm)** — Tracking X algorithm changes, PRs, and issues. Verifying what actually changed before I post.
 
 
